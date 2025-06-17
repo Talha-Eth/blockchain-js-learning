@@ -4,19 +4,20 @@ Tracking my journey of learning full-stack blockchain development.
 
 ## 🚀 Topics Covered
 
-| Day | Focus |
-|-----|-------|
-| Day 1 | Variables, arrays, basic math, template strings |
-| Day 2 | Functions, if/else, for loops |
-| Day 3 | Objects, arrays of objects, map/filter/reduce, token logic |
+| Day | Topics Covered |
+|-----|----------------|
+| Day 1 | JavaScript: Variables, arrays, template strings |
+| Day 2 | Functions, if/else, loops |
+| Day 3 | Objects, `map`, `filter`, `reduce`, token logic |
+| Day 4 | Promises, `async/await`, `try/catch`, contract simulation |
+| Solidity Day 1 | ✅ Hardhat setup, Solidity contract, local deployment, state reading/writing |
 
 ## 🔧 Tools I'm Using
 
 - Visual Studio Code
 - Node.js
 - Git & GitHub
-- (Soon) Truffle, Solidity, Hardhat, Ganache
-
+- Solidity, Hardhat, Ganache
 
 ## ✅ Day 4 - Promises & Async/Await
 
