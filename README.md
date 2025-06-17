@@ -30,3 +30,15 @@ Tracking my journey of learning full-stack blockchain development.
 | `try` / `catch` | To handle **any error** in your code (like a crash, or a rejected Promise) | `async/await`, functions, error-prone code |
 | `.then()`       | What to do when a **Promise resolves successfully**                        | With `Promise`                             |
 | `.catch()`      | What to do when a **Promise is rejected** or fails                         | With `Promise`                             |
+
+## JS finished
+
+## -----Solidty-----
+## 🔐 Solidity Progress (Day 1)
+
+- ✅ Set up Hardhat and created a real Solidity development environment
+- ✅ Wrote and deployed a smart contract (`HelloWorld`) locally
+- ✅ Used `ethers.js` to interact with the contract via Hardhat console
+- ✅ Learned `msg.sender`, `require()`, and constructor usage
+- ✅ Implemented access control: only the contract owner can update state
+- ✅ Built secure functions with input validation and ownership checks
